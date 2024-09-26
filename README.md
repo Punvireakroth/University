@@ -12,5 +12,19 @@ Royal University of Phnom Penh Information Technology Department homework, proje
 
 ---
 - Lesson summary: 
-    [Chapter 1 Introduction](./Operating%20System/README.md)
+    - [Chapter 1 Introduction](./Operating%20System/README.md)
+
+## Network Engineering
+
+
+- Year 3
+- Semester: 1
+- Content: Bit and Bypt of Network.
+- Network,
+- Course by: Seng Molika
+
+---
+
+- Course Structure
+    - [Calculate Link Capacity]('./Network%20Engineering/Link_Capacity.pdf')
 
